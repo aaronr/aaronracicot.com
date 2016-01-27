@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-
+![cover](public/images/cover.png)
 
 {% assign pages_list = site.pages %}
 {% for node in pages_list %}
