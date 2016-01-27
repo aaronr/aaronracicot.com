@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         rdiscount
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Aaron Racicot
+tagline:          '... a technical life history of Aaron Racicot'
+description:      'A place to archive the technical side of Aaron Racicot... work and otherwise'
+url:              http://aaronracicot.com
+
+author:
+  name:           'Aaron Racicot'
+  url:            https://github.com/aaronr
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/aaronr/aaronr.github.io
