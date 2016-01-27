@@ -3,7 +3,10 @@ layout: page
 title: Education
 ---
 
-<p class="message">
-  Education items...
-</p>
+### BS Computer Science 
+* University of Washington (UW) - (1996)
+
+### MS Environmental Science 
+* Oregon Health Science University (OHSU) - (2005)
+
 

@@ -3,13 +3,7 @@ layout: page
 title: 
 ---
 
-Contact
----
-<p class="message">
-<small>PO Box 1614 Langley WA 98260 <br>
-(360) 221-2441 <br>
-</small>
-</p>
+
 
 {% assign pages_list = site.pages %}
 {% for node in pages_list %}
