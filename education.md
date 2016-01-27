@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Education
+tagline: My educational background
 ---
 
 ### BS Computer Science 

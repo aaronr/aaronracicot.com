@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CUGOS
+tagline: My favorite Open Source group on the planet!
 ---
 
 * Co-Founder - February 2007

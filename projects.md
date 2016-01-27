@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+tagline: Fun hack projects outside of work
 ---
 
 ### Head on over to Github to checkout what fun projects I am working on... but here are some of the fun ones:

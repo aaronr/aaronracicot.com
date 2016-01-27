@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+tagline: Academic publications... mostly from my academic days
 ---
 
 Jolma, A., Ames, D.P., Horning, N., Mitasova, H., Neteler, M., Racicot, A. and Sutton, T. Free and open source geospatial tools for environmental modeling and management. In: Jakeman, A.J., Voinov, A.A., Rizzoli, A.E. and Chen, S.H. (eds.) Environmental Modeling, Software and Decision Support. State of the Art and New Perspectives. Developments in Integrated Environmental Assessment Vol. 3: 163-180.

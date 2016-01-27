@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Certification/Associations
+tagline: Useful or not... 
 ---
 
 Certified GIS Professional (GISP) - [http://www.gisci.org/](http://www.gisci.org/) – Certification ID 53691

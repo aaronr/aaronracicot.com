@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Work
+tagline: Professional work history... CV
 ---
 
 ### 07/01 – Present Z-Pulley Inc. Langley, WA 
