@@ -3,8 +3,12 @@ layout: page
 title: 
 ---
 
+Contact
+---
 <p class="message">
-  This will be the main page content... followed by links to topics
+<small>PO Box 1614 Langley WA 98260 <br>
+(360) 221-2441 <br>
+</small>
 </p>
 
 {% assign pages_list = site.pages %}
