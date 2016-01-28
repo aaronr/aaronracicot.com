@@ -45,7 +45,7 @@ tagline: Speaking history and slides
 ---
 **03/12 -** Presentation given with Will Simms (presentation written by Will) on the 3 month apprenticeship program we participated in... focused on OSM
 
-[PDF Presentation Link](/presentations/gis_apprentice_2012/GISApprenticeship_final.pdf)
+[PDF Presentation Link](/public/presentations/gis_apprentice_2012/GISApprenticeship_final.pdf)
 
 2008
 ---
