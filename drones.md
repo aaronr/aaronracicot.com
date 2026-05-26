@@ -9,7 +9,7 @@ tagline: Using them... hacking them... writing software for them...
 
 [FOSS4G 2014 - Quadcopter Presentation](http://aaronr.github.io/foss4g-2014/quadcopter/) - How to leverage inexpensive quadcopters, cameras and Open Source software to generate useful GIS data.
 
-[FOSS4G 2014 - Leveraging Quadcopter Data For Small Town GIS](http://aaronr.github.io/foss4g-2014/smalltown/) - How small towns (or orgs will limited resources) can leverage Open Source tools and infrastructure to gather, host and serve GIS data.  Quadcopter based imagery is used as the example dataset.
+[FOSS4G 2014 - Leveraging Quadcopter Data For Small Town GIS](http://aaronr.github.io/foss4g-2014/smalltown/) - How small towns (or orgs with limited resources) can leverage Open Source tools and infrastructure to gather, host and serve GIS data.  Quadcopter based imagery is used as the example dataset.
 
 [UW GIS Day - Intro to Quadcopter Data Collection](http://aaronr.github.io/uw-gisday-2014/) - GIS Day presentation on introduction to quadcopter GIS for students and the general community.
 

@@ -39,7 +39,7 @@ tagline: Speaking history and slides
 
 [CUGOS Fall Fling Intro](http://aaronr.github.io/fallfling2013/intro/) - Intro slides for Fall Fling 2013
 
-[CUGOS Fall Fling gh-pages](http://aaronr.github.io/fallfling2013/gh-pages/) - Talk on useing Github Pages for Fall Fling 2013
+[CUGOS Fall Fling gh-pages](http://aaronr.github.io/fallfling2013/gh-pages/) - Talk on using Github Pages for Fall Fling 2013
 
 2012
 ---
@@ -77,7 +77,7 @@ My Presentation Link (10 meg)** - **[**Open Source Geospatial Foundation (OSGeo)
 **07/23/07 - **[**Coastal Zone 07 (Portland)
 **](http://www.csc.noaa.gov/cz/)
 
-**Session :: ****[8:30am Monday 07/23/07 -  Tools for implementing Ecosystem-Based Managment](http://www.csc.noaa.gov/cz/techprogram.html)
+**Session :: ****[8:30am Monday 07/23/07 -  Tools for implementing Ecosystem-Based Management](http://www.csc.noaa.gov/cz/techprogram.html)
 **
 
 Audio Link - ([Streaming M3U Link](http://media.reprojected.com/presentations/Presentations/CZ07/cz_07.m3u)) ([32 meg MP3 Download](http://media.reprojected.com/presentations/Presentations/CZ07/cz_07.mp3))

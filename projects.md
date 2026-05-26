@@ -10,7 +10,7 @@ tagline: Fun hack projects outside of work
 
 [bboxfinder.com](http://bboxfinder.com/) - A fun project fully hosted on gh-pages that attempts to solve the simple problem of needing to know the bounding box of simple shapes in any projection.
 
-[projfinder.com](http://projfinder.com/) - A hack project to help users with x,y data in an unknown projection to determine the projection of that data by them providing a "location" hint... but centering the map where they "think" the data is located.  The tool uses PostGIS to itterate through known projections and calculating distances from map center to determine the most likely projection.
+[projfinder.com](http://projfinder.com/) - A hack project to help users with x,y data in an unknown projection to determine the projection of that data by them providing a "location" hint... but centering the map where they "think" the data is located.  The tool uses PostGIS to iterate through known projections and calculating distances from map center to determine the most likely projection.
 
 [dropchop.io](http://dropchop.io/) - A cugos hack project.  Have provided geometry export functionality as well as general help through development (i.e. build system etc).
 
